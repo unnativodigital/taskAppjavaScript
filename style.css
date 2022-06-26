@@ -1,0 +1,13 @@
+
+
+#boton:hover {
+    background-color: white;
+    color: blue;
+}
+
+
+#cuadro {
+    color: black;
+    border-radius: 8px;
+    padding: 10px;
+}
